@@ -6,10 +6,6 @@
     padding: 0;
 }
 
-body {
-  font-family: sans-serif;
-}
-
 header {
 	display: flex;
 	justify-content: space-between;
